@@ -17,6 +17,14 @@ Project Name: Simple To-Do List Web App
 
 Description: This project is a user-friendly to-do list application built using HTML, CSS, and JavaScript. Users can add new tasks, mark tasks as completed, and delete tasks. The application is designed to be intuitive and responsive, providing a seamless experience across different devices.  
 
+Technologies Used:
+HTML
+
+CSS
+
+Java Script
+
+
 
 Detailed Explanation  
 
